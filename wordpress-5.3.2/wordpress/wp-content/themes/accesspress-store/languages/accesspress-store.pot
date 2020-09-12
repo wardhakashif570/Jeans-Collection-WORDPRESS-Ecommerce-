@@ -1,0 +1,1745 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-09-03 10:51+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: 404.php:14
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:18
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#. 1: title.
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr ""
+
+#: content-blog.php:61 content-single.php:18 content.php:20
+#: template-blog.php:104
+msgid "Posted On"
+msgstr ""
+
+#: content-blog.php:63 content-single.php:20 content.php:22
+#: template-blog.php:106
+msgid "at"
+msgstr ""
+
+#: content-blog.php:65 content-single.php:22 content.php:24
+#: template-blog.php:108
+msgid "by"
+msgstr ""
+
+#: content-blog.php:82 content.php:35 template-blog.php:125
+msgid "Read More"
+msgstr ""
+
+#: content-blog.php:86 content-page.php:23 content-single.php:30
+msgid "Pages:"
+msgstr ""
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:23
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:43
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: footer.php:58
+msgid "Partner Logo 1"
+msgstr ""
+
+#: footer.php:62
+msgid "Partner Logo 2"
+msgstr ""
+
+#: footer.php:66
+msgid "Partner Logo 3"
+msgstr ""
+
+#: footer.php:70
+msgid "Partner Logo 4"
+msgstr ""
+
+#: footer.php:74
+msgid "SSL Seal"
+msgstr ""
+
+#: footer.php:78
+msgid "Other Seal 1"
+msgstr ""
+
+#: footer.php:82
+msgid "Other Seal 2"
+msgstr ""
+
+#: functions.php:66
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:114 inc/widgets/widget-fields.php:212
+msgid "Upload"
+msgstr ""
+
+#: functions.php:115 inc/widgets/widget-fields.php:216
+#: inc/widgets/widget-fields.php:232
+msgid "Remove"
+msgstr ""
+
+#: search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:8
+msgid "Search products"
+msgstr ""
+
+#. Name of the template
+msgid "Blog Page Template"
+msgstr ""
+
+#. Name of the template
+msgid "HomePage"
+msgstr ""
+
+#: header/header-one.php:15 header/header-two.php:15
+msgid "Welcome"
+msgstr ""
+
+#: header/header-one.php:21 header/header-two.php:21
+msgid "!"
+msgstr ""
+
+#: header/header-one.php:62 header/header-two.php:68
+msgid " Logout"
+msgstr ""
+
+#: header/header-one.php:66 header/header-two.php:74
+msgid "Login"
+msgstr ""
+
+#: header/header-one.php:102 header/header-two.php:110
+msgid "Menu"
+msgstr ""
+
+#: inc/accesspress-function.php:10
+msgid "AP: Right Sidebar"
+msgstr ""
+
+#: inc/accesspress-function.php:20
+msgid "AP: Left Sidebar"
+msgstr ""
+
+#: inc/accesspress-function.php:30
+msgid "Shop Sidebar"
+msgstr ""
+
+#: inc/accesspress-function.php:40
+msgid "Header Call To Box"
+msgstr ""
+
+#: inc/accesspress-function.php:50
+msgid "AP: Promo Widget 1"
+msgstr ""
+
+#: inc/accesspress-function.php:60
+msgid "AP: Product Listing Widget 1"
+msgstr ""
+
+#: inc/accesspress-function.php:70
+msgid "AP: Promo Widget 2"
+msgstr ""
+
+#: inc/accesspress-function.php:80
+msgid "AP: Product Listing Widget 2"
+msgstr ""
+
+#: inc/accesspress-function.php:90
+msgid "AP: Video Call to Action"
+msgstr ""
+
+#: inc/accesspress-function.php:100
+msgid "AP: Product Listing Widget 3"
+msgstr ""
+
+#: inc/accesspress-function.php:110
+msgid "AP: Promo Widget 3"
+msgstr ""
+
+#: inc/accesspress-function.php:120
+msgid "Footer Area 1"
+msgstr ""
+
+#: inc/accesspress-function.php:130
+msgid "Footer Area 2"
+msgstr ""
+
+#: inc/accesspress-function.php:140
+msgid "Footer Area 3"
+msgstr ""
+
+#: inc/accesspress-function.php:150
+msgid "Footer Area 4"
+msgstr ""
+
+#: inc/accesspress-function.php:368
+msgid "View your shopping cart"
+msgstr ""
+
+#: inc/accesspress-function.php:471
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr ""
+
+#: inc/accesspress-function.php:487
+msgid "Home"
+msgstr ""
+
+#: inc/accesspress-function.php:506
+msgid "Archive by category"
+msgstr ""
+
+#: inc/accesspress-function.php:508
+msgid "Search results for"
+msgstr ""
+
+#: inc/accesspress-function.php:566
+msgid "Posts tagged"
+msgstr ""
+
+#: inc/accesspress-function.php:570
+msgid "Articles posted by "
+msgstr ""
+
+#: inc/accesspress-function.php:578
+msgid "Page"
+msgstr ""
+
+#: inc/accesspress-function.php:679
+#, php-format
+msgid "Create %s and set the menu to display at Primary Menu Location."
+msgstr ""
+
+#: inc/custom-metabox.php:17
+msgid "Left sidebar"
+msgstr ""
+
+#: inc/custom-metabox.php:22
+msgid "Right sidebar (Default)"
+msgstr ""
+
+#: inc/custom-metabox.php:27
+msgid "Both Sidebar"
+msgstr ""
+
+#: inc/custom-metabox.php:32
+msgid "No sidebar"
+msgstr ""
+
+#: inc/custom-metabox.php:62
+msgid "You can set up the sidebar content"
+msgstr ""
+
+#: inc/custom-metabox.php:62
+msgid "here"
+msgstr ""
+
+#: woocommerce/content-feat-product.php:83 woocommerce/content-product.php:62
+msgid "Wishlist"
+msgstr ""
+
+#: inc/core/extras.php:60
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/core/template-tags.php:23
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/core/template-tags.php:27
+msgid "Older posts"
+msgstr ""
+
+#: inc/core/template-tags.php:31
+msgid "Newer posts"
+msgstr ""
+
+#: inc/core/template-tags.php:56
+msgid "Post navigation"
+msgstr ""
+
+#. %s: post date.
+#: inc/core/template-tags.php:87
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. %s: post author.
+#: inc/core/template-tags.php:93
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#. translators: used between list items, there is a space after the comma
+#: inc/core/template-tags.php:110
+msgid ", "
+msgstr ""
+
+#: inc/core/template-tags.php:113
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/core/template-tags.php:117
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: inc/core/template-tags.php:120
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/core/template-tags.php:126
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/core/template-tags.php:126
+msgid "1 Comment"
+msgstr ""
+
+#: inc/core/template-tags.php:126
+msgid "% Comments"
+msgstr ""
+
+#: inc/core/template-tags.php:130
+msgid "Edit"
+msgstr ""
+
+#: inc/customizer/accesspress-sanitizer.php:9
+msgid "Boxed"
+msgstr ""
+
+#: inc/customizer/accesspress-sanitizer.php:10
+#: inc/customizer/general-settings/general-setting.php:197
+msgid "Full Width"
+msgstr ""
+
+#: inc/customizer/accesspress-sanitizer.php:21
+#: inc/customizer/layout-settings/pagepost-setting.php:103
+msgid "List"
+msgstr ""
+
+#: inc/customizer/accesspress-sanitizer.php:22
+#: inc/customizer/layout-settings/pagepost-setting.php:104
+msgid "Grid"
+msgstr ""
+
+#: inc/customizer/accesspress-sanitizer.php:33
+#: inc/customizer/blog-settings/blog-setting.php:27
+msgid "Blog Image Large"
+msgstr ""
+
+#: inc/customizer/accesspress-sanitizer.php:34
+#: inc/customizer/blog-settings/blog-setting.php:28
+msgid "Blog Image Medium"
+msgstr ""
+
+#: inc/customizer/accesspress-sanitizer.php:35
+#: inc/customizer/blog-settings/blog-setting.php:29
+msgid "Blog Image Medium Alternate"
+msgstr ""
+
+#: inc/customizer/accesspress-sanitizer.php:36
+#: inc/customizer/blog-settings/blog-setting.php:30
+msgid "Blog Full Content"
+msgstr ""
+
+#: inc/customizer/accesspress-sanitizer.php:47
+#: inc/customizer/general-settings/general-setting.php:152
+msgid "Color"
+msgstr ""
+
+#: inc/customizer/accesspress-sanitizer.php:48
+#: inc/customizer/general-settings/general-setting.php:153
+msgid "Image"
+msgstr ""
+
+#: inc/customizer/accesspress-sanitizer.php:49
+#: inc/customizer/general-settings/general-setting.php:154
+msgid "Pattern"
+msgstr ""
+
+#: inc/customizer/accesspress-sanitizer.php:92
+#: inc/customizer/slider-settings/slider-setting.php:78
+msgid "Fade"
+msgstr ""
+
+#: inc/customizer/accesspress-sanitizer.php:93
+#: inc/customizer/slider-settings/slider-setting.php:79
+msgid "Slide"
+msgstr ""
+
+#: inc/customizer/accesspress-sanitizer.php:104
+#: inc/customizer/general-settings/general-setting.php:40
+msgid "Header Style One"
+msgstr ""
+
+#: inc/customizer/accesspress-sanitizer.php:105
+#: inc/customizer/general-settings/general-setting.php:41
+msgid "Header Style Two"
+msgstr ""
+
+#: inc/customizer/accesspress-sanitizer.php:116
+#: inc/customizer/general-settings/general-setting.php:20
+msgid "Widget Title Style One"
+msgstr ""
+
+#: inc/customizer/accesspress-sanitizer.php:117
+#: inc/customizer/general-settings/general-setting.php:21
+msgid "Widget Title Style Two"
+msgstr ""
+
+#: inc/customizer/accesspress-sanitizer.php:128
+#: inc/customizer/custom-control-class.php:17
+msgid "Enable"
+msgstr ""
+
+#: inc/customizer/accesspress-sanitizer.php:129
+#: inc/customizer/custom-control-class.php:18
+msgid "Disable"
+msgstr ""
+
+#: inc/customizer/accesspress-sanitizer.php:140
+#: inc/customizer/custom-control-class.php:35
+msgid "Yes"
+msgstr ""
+
+#: inc/customizer/accesspress-sanitizer.php:141
+#: inc/customizer/custom-control-class.php:36
+msgid "No"
+msgstr ""
+
+#: inc/customizer/customizer.php:31 inc/welcome/welcome.php:39
+msgid "Free Vs Pro"
+msgstr ""
+
+#: inc/customizer/customizer.php:32
+msgid "Compare"
+msgstr ""
+
+#: inc/customizer/customizer.php:59 inc/welcome/sections/getting_started.php:36
+msgid "Template Color"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:45
+msgid "Access Demo Importer"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:49
+msgid ""
+"Access Demo Importer adds the feature to Import the Demo Conent with a "
+"single click."
+msgstr ""
+
+#: inc/welcome/welcome-config.php:64
+msgid "Social booster for your site! A FREE plugin with premium features."
+msgstr ""
+
+#: inc/welcome/welcome-config.php:71
+msgid ""
+"Connect your website visitors to your social community in an easy way! Link "
+"up your social media profiles via great looking social buttons."
+msgstr ""
+
+#: inc/welcome/welcome-config.php:78
+msgid ""
+"Contact Form 7 can manage multiple contact forms, plus you can customize the "
+"form and the mail contents flexibly with simple markup."
+msgstr ""
+
+#: inc/welcome/welcome-config.php:89
+msgid ""
+"WOO Product Grid/List Design- Responsive Products Showcase Extension for "
+"Woocommerce"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:90
+msgid "1.0.3"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:97
+msgid ""
+"Design your WooCommerce shop like never before! A complete package for your "
+"Woo shop designer."
+msgstr ""
+
+#: inc/welcome/welcome-config.php:102
+msgid ""
+"Woo Badge Designer - WooCommerce Product Badge Designer WordPress Plugin"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:103
+msgid "1.0.1"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:110
+msgid ""
+"Add some attractive badges on your product listing and single page and "
+"increase your sales upto 55%."
+msgstr ""
+
+#: inc/welcome/welcome-config.php:115
+msgid ""
+"WP Admin White Label Login - WordPress Plugin For Advanced Customizable "
+"Login page"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:116
+msgid "1.3.5"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:123
+msgid ""
+"Make your default wp-admin screen look like a non WP one! Choose from some "
+"great ready to use template designs and many features to boost your "
+"WordPress backend."
+msgstr ""
+
+#: inc/welcome/welcome-config.php:128
+msgid "Easy Side Tab Pro - Responsive Floating Tab Plugin For Wordpress"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:129
+msgid "1.0.6"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:136
+msgid ""
+"Place some great designed floating tabs on your site for quick links. "
+"Increase accessibility of your site."
+msgstr ""
+
+#: inc/welcome/welcome-config.php:141
+msgid "Everest Timeline - Responsive WordPress Timeline Plugin"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:142
+msgid "2.0.2"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:149
+msgid "A perfect timeline maker! If you're planning to make one go for it!"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:157
+msgid "Accesspress Store"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:158
+msgid ""
+"Accesspress Store - is free WordPress theme that work beautifully with "
+"WooCommerce. The theme is packed with lots of exciting feature that enhances "
+"the ecommerce experience. It features Product slider, advanced whistlist, "
+"Featured product show list, call to action and many more. With its advanced "
+"customizer options, setting up the ecommerce website has become much more "
+"easy. Great customer support via online chat, email, support forum. Official "
+"support forum: http://accesspressthemes.com/support/ View full demo here: "
+"http://demo.accesspressthemes.com/accesspress-store/"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:161
+msgid "Install and Activate"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:162
+msgid "Deactivate"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:163 inc/welcome/welcome-config.php:180
+msgid "Activate"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:166
+msgid "Step 1 - Documentation"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:167
+msgid ""
+"Read the Documentation and follow the instructions to manage the site , it "
+"helps you to set up the theme more easily and quickly. The Documentation is "
+"very easy with its pictorial  and well managed listed instructions. "
+msgstr ""
+
+#: inc/welcome/welcome-config.php:169
+msgid "Read Now"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:170
+msgid "Step 2 - Customizer Panel"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:171
+msgid "Go to Customizer Panels"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:174 inc/welcome/welcome-config.php:190
+msgid "Premium Plugins"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:175 inc/welcome/welcome-config.php:191
+msgid "Free Plugins"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:181
+msgid "Activated"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:182
+msgid "Installing Demo"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:183
+msgid "Demo Installed"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:184
+msgid "Are you sure to import demo content ?"
+msgstr ""
+
+#: inc/welcome/welcome-config.php:187
+msgid ""
+"All these required plugins will be installed and activated while importing "
+"demo. Or you can choose to install and activate them manually. If you're not "
+"importing any of the demos, you must install and activate these plugins "
+"manually."
+msgstr ""
+
+#: inc/welcome/welcome-config.php:188
+msgid "All Recommended action has been successfully completed."
+msgstr ""
+
+#: inc/welcome/welcome-config.php:189
+msgid "Customize Theme"
+msgstr ""
+
+#: inc/welcome/welcome.php:35
+msgid "Getting Started"
+msgstr ""
+
+#: inc/welcome/welcome.php:36
+msgid "Required Plugins"
+msgstr ""
+
+#: inc/welcome/welcome.php:37
+msgid "Recommended Plugins"
+msgstr ""
+
+#: inc/welcome/welcome.php:38
+msgid "Import Demo"
+msgstr ""
+
+#: inc/welcome/welcome.php:40
+msgid "ChangeLog"
+msgstr ""
+
+#: inc/welcome/welcome.php:41
+msgid "Support"
+msgstr ""
+
+#: inc/welcome/welcome.php:116
+msgid "Welcome!"
+msgstr ""
+
+#. %s : Theme Name
+#: inc/welcome/welcome.php:117
+#, php-format
+msgid ""
+"Thank you for installing %1$s. It is now installed and ready to use. Here "
+"are some useful links to get started: "
+msgstr ""
+
+#: inc/welcome/welcome.php:125
+msgid "Starter site demos!"
+msgstr ""
+
+#: inc/welcome/welcome.php:131
+msgid "ready to use starter sites."
+msgstr ""
+
+#: inc/welcome/welcome.php:136
+msgid ""
+"You can also reach-out to us for any support during the theme setup and use."
+msgstr ""
+
+#: inc/welcome/welcome.php:137
+msgid "Contact Support"
+msgstr ""
+
+#: inc/welcome/welcome.php:145 inc/welcome/sections/support.php:31
+msgid "Documentation"
+msgstr ""
+
+#: inc/welcome/welcome.php:148
+msgid "Full Documentation"
+msgstr ""
+
+#: inc/welcome/welcome.php:152
+msgid "Return to your Dashboard"
+msgstr ""
+
+#. %s : Theme Name and Version
+#: inc/welcome/welcome.php:215
+msgid "Get connected, share your opinions and more via our social community: "
+msgstr ""
+
+#: inc/welcome/welcome.php:217
+msgid " -to receive updates, offers and more."
+msgstr ""
+
+#: inc/welcome/welcome.php:219
+msgid " -for tutorials, videos and more."
+msgstr ""
+
+#: inc/welcome/welcome.php:221
+msgid " -to stay updated. "
+msgstr ""
+
+#. %s : Theme Name
+#: inc/welcome/welcome.php:225
+#, php-format
+msgid "Are you enjoying %1$s? We would love to hear your feedback!"
+msgstr ""
+
+#: inc/welcome/welcome.php:364
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr ""
+
+#: inc/welcome/welcome.php:374
+msgid "Error - unable to verify nonce, please try again."
+msgstr ""
+
+#: inc/welcome/welcome.php:466 inc/welcome/welcome.php:486
+msgid "Plugin Does not Exists"
+msgstr ""
+
+#: inc/widgets/widget-cta-simple.php:26
+msgid "A widget that shows Simple Call to Action"
+msgstr ""
+
+#: inc/widgets/widget-cta-simple.php:39 inc/widgets/widget-cta-video.php:39
+#: inc/widgets/widget-full-promo.php:39 inc/widgets/widget-icon-text.php:41
+#: inc/widgets/widget-product1.php:63 inc/widgets/widget-promo.php:39
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/widget-cta-simple.php:44 inc/widgets/widget-cta-video.php:44
+msgid "Description"
+msgstr ""
+
+#: inc/widgets/widget-cta-simple.php:50 inc/widgets/widget-cta-video.php:61
+msgid "Button Text"
+msgstr ""
+
+#: inc/widgets/widget-cta-simple.php:55
+msgid "Enter Fontawesome Class to show in button"
+msgstr ""
+
+#: inc/widgets/widget-cta-simple.php:60 inc/widgets/widget-cta-video.php:66
+msgid "Button Url"
+msgstr ""
+
+#: inc/widgets/widget-cta-video.php:26
+msgid "A widget that shows Call to Action with Video"
+msgstr ""
+
+#: inc/widgets/widget-cta-video.php:50
+msgid "Background Upload Image"
+msgstr ""
+
+#: inc/widgets/widget-cta-video.php:55
+msgid "Video Iframe"
+msgstr ""
+
+#: inc/widgets/widget-fields.php:207
+msgid "No file chosen"
+msgstr ""
+
+#: inc/widgets/widget-fields.php:221
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: inc/widgets/widget-fields.php:241
+msgid "View File"
+msgstr ""
+
+#: inc/widgets/widget-full-promo.php:26
+msgid "A widget that Gives Full Width Promo of the object"
+msgstr ""
+
+#: inc/widgets/widget-full-promo.php:45 inc/widgets/widget-promo.php:45
+msgid "Upload Image"
+msgstr ""
+
+#: inc/widgets/widget-full-promo.php:51
+msgid "Select FullWidth Style"
+msgstr ""
+
+#: inc/widgets/widget-full-promo.php:58
+msgid "Sub Title"
+msgstr ""
+
+#: inc/widgets/widget-full-promo.php:64 inc/widgets/widget-promo.php:51
+msgid "Enter Promo Desc"
+msgstr ""
+
+#: inc/widgets/widget-full-promo.php:71 inc/widgets/widget-promo.php:58
+msgid "Enter Promo Button Text"
+msgstr ""
+
+#: inc/widgets/widget-full-promo.php:77 inc/widgets/widget-promo.php:64
+msgid "Enter Promo Link"
+msgstr ""
+
+#: inc/widgets/widget-icon-text.php:26
+msgid "A widget that shows Text with Icon"
+msgstr ""
+
+#: inc/widgets/widget-icon-text.php:46
+msgid "Content"
+msgstr ""
+
+#: inc/widgets/widget-icon-text.php:52
+msgid "Icon"
+msgstr ""
+
+#: inc/widgets/widget-icon-text.php:57
+msgid "Read More Text"
+msgstr ""
+
+#: inc/widgets/widget-icon-text.php:58
+msgid "Leave Empty not to show"
+msgstr ""
+
+#: inc/widgets/widget-icon-text.php:63
+msgid "Read More Link"
+msgstr ""
+
+#: inc/widgets/widget-product1.php:17
+msgid "The Product Slide Choose your type"
+msgstr ""
+
+#: inc/widgets/widget-product1.php:29
+msgid "Category"
+msgstr ""
+
+#: inc/widgets/widget-product1.php:30
+msgid "Latest Product"
+msgstr ""
+
+#: inc/widgets/widget-product1.php:31
+msgid "UpSell Product"
+msgstr ""
+
+#: inc/widgets/widget-product1.php:32
+msgid "Feature Product"
+msgstr ""
+
+#: inc/widgets/widget-product1.php:33
+msgid "On Sale Product"
+msgstr ""
+
+#: inc/widgets/widget-product1.php:69
+msgid "Select Product Type"
+msgstr ""
+
+#: inc/widgets/widget-product1.php:76
+msgid ""
+"Select Product Category (This category option does not work on Feature "
+"Product and On Sale Products)"
+msgstr ""
+
+#: inc/widgets/widget-product1.php:84
+msgid "Select the number of Product to show"
+msgstr ""
+
+#: inc/widgets/widget-product1.php:112
+msgid "New!"
+msgstr ""
+
+#: inc/widgets/widget-product2.php:20
+msgid ""
+"This widgets show the Category Image its Description and Product of that "
+"Category"
+msgstr ""
+
+#: inc/widgets/widget-product2.php:31
+msgid "Right Align With Category Image"
+msgstr ""
+
+#: inc/widgets/widget-product2.php:32
+msgid "Left Align With Category Image"
+msgstr ""
+
+#: inc/widgets/widget-product2.php:63
+msgid "Select the Display Style (Image Alignment)"
+msgstr ""
+
+#: inc/widgets/widget-product2.php:70
+msgid "Select Product Category"
+msgstr ""
+
+#: inc/widgets/widget-promo.php:26
+msgid "A widget that Gives Promo of the object"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:27
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: inc/customizer/blog-settings/blog-setting.php:7
+msgid "Blog Settings"
+msgstr ""
+
+#: inc/customizer/blog-settings/blog-setting.php:24
+msgid "Blog Layout"
+msgstr ""
+
+#: inc/customizer/general-settings/general-setting.php:5
+msgid "Widget Title Layout Settings"
+msgstr ""
+
+#: inc/customizer/general-settings/general-setting.php:16
+msgid "Widget Title Layout Type"
+msgstr ""
+
+#: inc/customizer/general-settings/general-setting.php:17
+msgid "Theme have two different widget title layout select layout as you want"
+msgstr ""
+
+#: inc/customizer/general-settings/general-setting.php:25
+msgid "Header Layout Settings"
+msgstr ""
+
+#: inc/customizer/general-settings/general-setting.php:36
+msgid "Header Layout Type"
+msgstr ""
+
+#: inc/customizer/general-settings/general-setting.php:37
+msgid ""
+"Theme have two different heder layout select you header layout as you want"
+msgstr ""
+
+#: inc/customizer/general-settings/general-setting.php:48
+msgid "General Setting"
+msgstr ""
+
+#: inc/customizer/general-settings/general-setting.php:49
+msgid "This allows to edit the header"
+msgstr ""
+
+#: inc/customizer/general-settings/general-setting.php:53
+msgid "Ticker Setting"
+msgstr ""
+
+#: inc/customizer/general-settings/general-setting.php:65
+msgid "Enable Disable Ticker"
+msgstr ""
+
+#: inc/customizer/general-settings/general-setting.php:77
+msgid "Ticker Title"
+msgstr ""
+
+#: inc/customizer/general-settings/general-setting.php:88
+msgid "Ticker Text 1"
+msgstr ""
+
+#: inc/customizer/general-settings/general-setting.php:99
+msgid "Ticker Text2"
+msgstr ""
+
+#: inc/customizer/general-settings/general-setting.php:110
+msgid "Ticker Text3"
+msgstr ""
+
+#: inc/customizer/general-settings/general-setting.php:121
+msgid "Ticker Text4"
+msgstr ""
+
+#: inc/customizer/general-settings/general-setting.php:128
+msgid "Header Logo"
+msgstr ""
+
+#: inc/customizer/general-settings/general-setting.php:134
+msgid "Background"
+msgstr ""
+
+#: inc/customizer/general-settings/general-setting.php:147
+msgid "Select the Background type"
+msgstr ""
+
+#: inc/customizer/general-settings/general-setting.php:148
+msgid "Select the Background type for your website"
+msgstr ""
+
+#: inc/customizer/general-settings/general-setting.php:166
+msgid "Background Pattern"
+msgstr ""
+
+#: inc/customizer/general-settings/general-setting.php:179
+msgid "Layout Setting"
+msgstr ""
+
+#: inc/customizer/general-settings/general-setting.php:191
+msgid "Website Layout"
+msgstr ""
+
+#: inc/customizer/general-settings/general-setting.php:192
+msgid "Make your website either box layout or full width from click away"
+msgstr ""
+
+#: inc/customizer/general-settings/general-setting.php:196
+msgid "Boxed Layout"
+msgstr ""
+
+#: inc/customizer/general-settings/general-setting.php:204
+msgid "Custom CSS Section"
+msgstr ""
+
+#: inc/customizer/general-settings/general-setting.php:216
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/customizer/general-settings/general-setting.php:225
+msgid "Footer Copyright"
+msgstr ""
+
+#: inc/customizer/general-settings/general-setting.php:237
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer/layout-settings/pagepost-setting.php:7
+msgid "Page/Post Settings"
+msgstr ""
+
+#: inc/customizer/layout-settings/pagepost-setting.php:8
+msgid "If not defined from cutom metabox these settings will be applied."
+msgstr ""
+
+#: inc/customizer/layout-settings/pagepost-setting.php:28
+msgid "Single Page Layout"
+msgstr ""
+
+#: inc/customizer/layout-settings/pagepost-setting.php:52
+msgid "Single Post Layout"
+msgstr ""
+
+#: inc/customizer/layout-settings/pagepost-setting.php:76
+msgid "Archive Page Layout"
+msgstr ""
+
+#: inc/customizer/layout-settings/pagepost-setting.php:100
+msgid "Archive Page Inner View"
+msgstr ""
+
+#: inc/customizer/paymentlogo-settings/paymentlogo-setting.php:9
+msgid "Payment/Certification Logo Setting"
+msgstr ""
+
+#: inc/customizer/paymentlogo-settings/paymentlogo-setting.php:10
+msgid "This allows to edit the paymentlogo"
+msgstr ""
+
+#: inc/customizer/paymentlogo-settings/paymentlogo-setting.php:17
+msgid "Payment Logo Images"
+msgstr ""
+
+#: inc/customizer/paymentlogo-settings/paymentlogo-setting.php:34
+msgid "Upload Payment Logo 1 Image"
+msgstr ""
+
+#: inc/customizer/paymentlogo-settings/paymentlogo-setting.php:51
+msgid "Upload Payment Logo 2 Image"
+msgstr ""
+
+#: inc/customizer/paymentlogo-settings/paymentlogo-setting.php:68
+msgid "Upload Payment Logo 3 Image"
+msgstr ""
+
+#: inc/customizer/paymentlogo-settings/paymentlogo-setting.php:85
+msgid "Upload Payment Logo 4 Image"
+msgstr ""
+
+#: inc/customizer/paymentlogo-settings/paymentlogo-setting.php:91
+msgid "Other Logo Images"
+msgstr ""
+
+#: inc/customizer/paymentlogo-settings/paymentlogo-setting.php:108
+msgid "Upload SSL Seal Image"
+msgstr ""
+
+#: inc/customizer/paymentlogo-settings/paymentlogo-setting.php:123
+#: inc/customizer/paymentlogo-settings/paymentlogo-setting.php:138
+msgid "Upload Other Seal 2 Image"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:8
+msgid "Slider Setting"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:9
+msgid "This allows to edit the Slider"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:13
+msgid "Basic Slider Settings"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:25
+msgid "Show Slider"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:37
+msgid "Show Pager"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:49
+msgid "Show Controls"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:61
+msgid "Auto Transition"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:75
+msgid "Slider Transitions (Slide/Fade)"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:89
+msgid "Slider Speed"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:100
+msgid "Slider Pause"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:111
+msgid "Show Caption"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:117
+msgid "Slider 1"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:123
+msgid "Slider 2"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:129
+msgid "Slider 3"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:135
+msgid "Slider 4"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:141
+msgid "Slider 5"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:150
+msgid "Select Slider Post"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:162
+msgid "Select Post For Slider One"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:177
+msgid "Slider 1 Button Link"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:189
+msgid "Slider 1 Button Text"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:200
+msgid "Select Post For Slider Two"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:214
+msgid "Slider 2 Button Link"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:226
+msgid "Slider 2 Button Text"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:237
+msgid "Select Post For Slider Three"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:251
+msgid "Slider 3 Button Link"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:263
+msgid "Slider 3 Button Text"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:275
+msgid "Select Post For Slider Four"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:289
+msgid "Slider 4 Button Link"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:301
+msgid "Slider 4 Button Text"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:312
+msgid "Select Post For Slider Five"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:326
+msgid "Slider 5 Button Link"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:338
+msgid "Slider 5 Button Text"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:346
+msgid "Breadcrumb Setting"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:347
+msgid "This allows to upload breadcrumb background image"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:351
+msgid "WooCommerce Archive Page"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:363
+#: inc/customizer/slider-settings/slider-setting.php:394
+#: inc/customizer/slider-settings/slider-setting.php:425
+#: inc/customizer/slider-settings/slider-setting.php:456
+msgid "Enable/Disable Breadcrumb"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:376
+#: inc/customizer/slider-settings/slider-setting.php:407
+#: inc/customizer/slider-settings/slider-setting.php:438
+#: inc/customizer/slider-settings/slider-setting.php:469
+msgid "Upload Background Image"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:378
+#: inc/customizer/slider-settings/slider-setting.php:409
+#: inc/customizer/slider-settings/slider-setting.php:440
+#: inc/customizer/slider-settings/slider-setting.php:471
+msgid ""
+"Uplaod Breadcrumb Background Image, Breadcrumb Background Image Size of 2000 "
+"&times; 156 Pixels."
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:382
+msgid "WooCommerce Single Product Page"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:413
+msgid "Breadcrumb Page Options"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:444
+msgid "Breadcrumb Post Options"
+msgstr ""
+
+#: inc/customizer/woocommerce-settings/woocommerce-setting.php:9
+#: inc/customizer/woocommerce-settings/woocommerce-setting.php:16
+msgid "Woocommerce Setting"
+msgstr ""
+
+#: inc/customizer/woocommerce-settings/woocommerce-setting.php:32
+msgid "Custom Placeholder"
+msgstr ""
+
+#: inc/customizer/woocommerce-settings/woocommerce-setting.php:50
+msgid "Hide Header Product Search"
+msgstr ""
+
+#: inc/welcome/sections/actions_required.php:58
+#: inc/welcome/sections/actions_required.php:122
+#: inc/welcome/sections/recommended_plugins.php:43
+#: inc/welcome/sections/recommended_plugins.php:149
+msgid "Version "
+msgstr ""
+
+#: inc/welcome/sections/demo_import.php:117
+msgid "Install : "
+msgstr ""
+
+#: inc/welcome/sections/demo_import.php:117
+msgid " Plugin"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:3
+msgid "ONE TIME PAYMENT"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:4
+msgid "No renewal needed"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:8
+msgid "UNLIMITED DOMAIN LICENCE"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:9
+msgid "Use in as many website as you need"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:13
+msgid "FREE UPDATES FOR LIFE TIME"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:14
+msgid "Keep upto date"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:19
+msgid "Features"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:20
+msgid "Free"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:21
+msgid "Pro"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:25
+msgid "Demo Import."
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:26
+msgid ""
+"Tired of configuring site from scratch. Installation of demo is just one "
+"click away."
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:37
+msgid "Responsive Design"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:38
+msgid "Displays fine in device with screen sizes."
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:49
+msgid "Translation Ready"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:50
+msgid "Create the site in your own custom language."
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:61
+msgid "Multiple Color Scheme"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:62
+msgid "Choose any theme skin color you like."
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:73
+#: inc/welcome/sections/free_vs_pro.php:97
+msgid "Website Layouts"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:74
+#: inc/welcome/sections/free_vs_pro.php:98
+msgid "Choose either boxed layout or fullwidth layout for you website."
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:85
+msgid "Multiple Header Layout"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:86
+msgid ""
+"Choose any header layout from the multiple header layout options available."
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:109
+#: inc/welcome/sections/free_vs_pro.php:121
+msgid "CSS3 Animation"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:110
+#: inc/welcome/sections/free_vs_pro.php:122
+#: inc/welcome/sections/free_vs_pro.php:134
+msgid "Have a smooth animation effects in website."
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:133
+msgid "Multiple Blog Layout"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:137
+#: inc/welcome/sections/free_vs_pro.php:140
+msgid "4"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:145
+msgid "Promo Ticker"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:146
+msgid "Configure a beautiful ticker the way you want."
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:157
+msgid "Youtube Integration"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:158
+msgid "Show youtube videos in your website."
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:169
+msgid "Mega Menu"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:170
+msgid ""
+"Have more flexibility in your menu with the added support for the Mega Menu."
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:181
+msgid "Advanced Product Search"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:182
+msgid "Search products easily."
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:193
+msgid "Unlimited Sliders"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:194
+msgid "Configure unlimited slider options and promote your products, shop."
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:205
+msgid "Highly configurable Home Page"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:206
+msgid ""
+"High level of personalization for configuring all the home page components."
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:217
+msgid "Home Page Team Section"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:218
+msgid "Have a team section in your home page."
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:229
+msgid "Client Logo Slider"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:230
+msgid "Have a client logo slider in Home Page."
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:241
+msgid "Testimonial Slider"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:242
+msgid "Have Testimonial Slider in your Home Page."
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:253
+msgid "Countdown Page Options"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:254
+msgid "Set your Site to Maintenance mode using the Countdown page."
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:265
+msgid "Fully WooCommerce Compatible"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:266
+msgid "Yes - Stop your WooCommerce theme search here."
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:277
+msgid "SEO Optimized"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:278
+msgid "Google will love it."
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:289
+msgid "Upgrade to AccessPress Pro"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:290
+msgid "Upgrade to pro version for additional features and better supports."
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:293
+msgid "AccessPress Store Pro"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:298
+msgid "Upgrade to Fashstore Pro ( Pro theme for the child theme ) "
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:299
+msgid ""
+"Upgrade to pro version of Fashstore for additional features and better "
+"supports."
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:302
+msgid "Fashstore Pro"
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:5
+msgid "Links to Customizer Settings"
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:11
+msgid "Upload Logo"
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:16
+msgid "HomePage Settings"
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:21
+msgid "Section Reorder"
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:26
+msgid "Menu Options"
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:31
+msgid "Preloader Options"
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:41
+msgid "Footer Options"
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:47
+msgid "Layout Options"
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:61
+msgid "Step 1 - Checkout starter sites (Demos) "
+msgstr ""
+
+#. %s : Theme Name
+#: inc/welcome/sections/getting_started.php:62
+#, php-format
+msgid ""
+"%1$s now comes with a sites library with 6 starter sites to pick from. You "
+"can check theme out and decide which one to start with. However you can "
+"decide not to use any one of them and start building your site from scratch."
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:63
+msgid "See Demos"
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:69
+msgid "Step 2 - Import demo of your choice "
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:70
+msgid ""
+"Once you chose one of the available starter sites (demos) - you can install "
+"it. Please be noted that once you install the demo, it will install all the "
+"required plugins too. It is not recommended to install demo on your existing "
+"content. A fresh WordPress installation would be required to install demo to "
+"replicate demo content exactly. "
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:71
+msgid "Install Demo"
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:74
+msgid "Step 3 - Start editing the demo content and making your site! "
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:75
+msgid ""
+"Once you install the demo, you can start editing the content, replacing "
+"images etc."
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:78
+msgid "Step 4 - You 're done! "
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:79
+msgid "Go live with the website and get some rest"
+msgstr ""
+
+#: inc/welcome/sections/recommended_plugins.php:80
+msgid "View Detail"
+msgstr ""
+
+#: inc/welcome/sections/support.php:4
+msgid "Create Support Tickets"
+msgstr ""
+
+#: inc/welcome/sections/support.php:5
+msgid ""
+"If you're having any issues with the theme, feel free to create a ticket in "
+"our support forum. We reply your ticket very soon!"
+msgstr ""
+
+#: inc/welcome/sections/support.php:6
+msgid "Create Ticket"
+msgstr ""
+
+#: inc/welcome/sections/support.php:12
+msgid "Online Chat"
+msgstr ""
+
+#: inc/welcome/sections/support.php:13
+msgid ""
+"If you need an immediate solution, you can try our online chat support too. "
+"However our online time is limited and as below"
+msgstr ""
+
+#: inc/welcome/sections/support.php:14
+msgid "Mon - Fri"
+msgstr ""
+
+#: inc/welcome/sections/support.php:15
+msgid "10AM - 5PM "
+msgstr ""
+
+#: inc/welcome/sections/support.php:16
+msgid "Kathmandu Time (GMT + 5:45)"
+msgstr ""
+
+#: inc/welcome/sections/support.php:17
+msgid "Start Online Chat"
+msgstr ""
+
+#: inc/welcome/sections/support.php:23
+msgid "Email to support team"
+msgstr ""
+
+#: inc/welcome/sections/support.php:24
+msgid ""
+"You can also email to our support team directly at : "
+"support@accesspressthemes.com."
+msgstr ""
+
+#: inc/welcome/sections/support.php:32
+msgid ""
+"Checkout our documentation and get more details on how to setup / configure "
+"theme step by step."
+msgstr ""
+
+#: inc/welcome/sections/support.php:33
+msgid "View Documentation"
+msgstr ""
+
+#. Name of the theme
+msgid "AccessPress Store"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"AccessPress Store is free WordPress theme that work beautifully with "
+"WooCommerce. The theme is packed with lots of exciting feature that enhances "
+"the ecommerce experience. It features Product slider, advanced whistlist, "
+"Featured product show list, call to action and many more. With its advanced "
+"customizer options, setting up the ecommerce website has become much more "
+"easy. Great customer support via online chat, email, support forum. Official "
+"support forum: http://accesspressthemes.com/support/ View full demo here: "
+"http://demo.accesspressthemes.com/accesspress-store/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://accesspressthemes.com/wordpress-themes/accesspress-store/"
+msgstr ""
+
+#. Author of the theme
+msgid "AccessPress Themes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://accesspressthemes.com/"
+msgstr ""
